@@ -12,6 +12,8 @@ This is the new content
 ## How to contribute
 New content for this section
 
+Something unrelevant just for text purposes
+
 ###Copyright
 
 2014 Git.Training
